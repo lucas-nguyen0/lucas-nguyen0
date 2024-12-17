@@ -16,6 +16,9 @@ Hi, I'm Lucas Nguyen, student attending Saint Mother Teresa High School in Canad
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
 </p>
 
+<a href="https://computer-based-problem-solving.readthedocs.io/en/latest/" target="_blank"><img src="https://computer-based-problem-solving.readthedocs.io/en/latest/_images/ComputerBasedProblemSolving.png" alt="My Online Textbook - Computer Based Problem Solving" width="240" border="10" /></a>
+
+
 <!---
 lucas-nguyen0/lucas-nguyen0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
