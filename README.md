@@ -16,7 +16,7 @@ Hi, I'm Lucas Nguyen, student attending Saint Mother Teresa High School in Canad
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
 </p>
 
-<img align="left" width="150" height="150" src="[https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1](https://avatars.githubusercontent.com/u/180433559?s=400&u=c1c51123c7e5fd78bf5daa83b37145540095484f&v=4)"/>
+![]([https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg](https://avatars.githubusercontent.com/u/180433559?v=4))
 
 <!---
 lucas-nguyen0/lucas-nguyen0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
