@@ -6,9 +6,9 @@ Hi, I'm Lucas Nguyen, student attending Saint Mother Teresa High School in Canad
 
 <h2>✍ Programming Languages</h2>
 <p>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Atypescript"><img alt="TypeScript" 
+  <a href="https://github.com/search?q=user%3Alucas-nguyen0+language%3Atypescript"><img alt="TypeScript" 
   src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3AMr-Coxall+language%3Ahtml"><img alt="HTML"
+  <a href="https://github.com/search?q=user%3Alucas-nguyen0+language%3Ahtml"><img alt="HTML"
   src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   </p>
 <h2>💻 Operating Systems</h2>
