@@ -16,7 +16,7 @@ Hi, I'm Lucas Nguyen, student attending Saint Mother Teresa High School in Canad
   <a href="https://linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white" alt="Linux"></a>
   <a href="https://www.google.com/intl/en_ca/chromebook/chrome-os/"><img src="https://img.shields.io/badge/chrome%20os-3d89fc?logo=google%20chrome&logoColor=white" alt="ChromeOS"></a>
 </p>
-## 🔧 Tools
+<h2>🔧 Tools</h2>
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
